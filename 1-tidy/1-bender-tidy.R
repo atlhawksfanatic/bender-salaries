@@ -37,7 +37,6 @@ all_players <- all_salaries %>%
 
 
 all_players %>% 
-  select(season, team, team_abbr, player, salary,
-         team_raw, player_raw, salary_raw) %>% 
+  select(season, team, team_abbr, player, salary) %>% 
   write_csv(paste0(local_dir, "/bender_salaries.csv"))
 
