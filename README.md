@@ -8,7 +8,7 @@ The structure of the repository is as follows:
 
 - [0-data/](0-data/)
     - `0-bender-scrape.R` - script to download data from [Patricia Bender](https://www.eskimo.com/~pbender/)
-    - `0-bender-parse.R` - 
+    - `0-bender-parse.R` - script to parse through each file of salaries to gather player salary information
     - salaries/ 
         - raw/
             - All downloaded text files from the `0-bender-scrape.R` script.
