@@ -1,0 +1,679 @@
+
+2001-2002 NBA Salaries
+
+Based on the rosters for 12/17/01.
+
+I've compiled this myself this year from my own information and sources.
+Many thanks to those sources!
+With props to RealGM.com, which I used to double-check somethings [but my
+numbers may not match theirs].
+I did use RealGM's numbers for Moochie Norris (Hou) and Chris Gatling (Mia). 
+
+[12/20 Removed Sam Perkins, re-computed Indiana's cap, and re-computed the
+league average as Perkins was released 9/17 and had a non-guaranteed 
+contract.  Thanks to Ron Haneberg for pointing this out.]
+
+Players with 5 or more years of experience and signed to minimum, one year
+contracts only count $590,850 against a team's cap (the league pays any 
+amount over that amount) [or the prorated amount from when the player was 
+signed or released].  I've listed the player's actual salary in the listing
+and for the overall average, but used the $590,850 amount for the player's 
+team payroll.
+
+The league salary cap for 2001-02 is $42.5 million.  The league has a soft
+cap - which means teams can go over the cap to re-sign their own free
+agents.
+
+
+Team Payrolls
+    Team                      Payroll 
+ 1. New York Knicks         $85,457,889
+ 2. Portland Trailblazers   $83,758,700
+ 3. New Jersey Nets         $75,172,371
+ 4. Philadelphia 76ers      $58,073,366
+ 5. Dallas Mavericks        $57,363,430
+ 6. Milwaukee Bucks         $56,224,266
+ 7. Phoenix Suns            $56,187,219
+ 8. Sacramento Kings        $54,921,012
+ 9. Washington Wizards      $54,776,087
+10. Minnesota Timberwolves  $54,559,632
+11. Denver Nuggets          $54,426,938
+12. Los Angeles Lakers      $53,458,686
+13. Indiana Pacers          $53,211,121
+14. Utah Jazz               $52,642,362
+15. Miami Heat              $52,605,146
+16. Toronto Raptors         $52,282,161
+17. Atlanta Hawks           $51,179,169
+18. Memphis Grizzlies       $50,920,631
+19. Charlotte Hornets       $49,999,445
+20. Houston Rockets         $49,168,169
+21. Golden State Warriors   $47,681,152
+22. Boston Celtics          $47,469,112
+23. Orlando Magic           $45,796,501
+24. San Antonio Spurs       $45,719,814
+25. Cleveland Cavaliers     $45,649,974
+26. Seattle Sonics          $45,431,733
+27. Chicago Bulls           $42,592,857
+28. Detroit Pistons         $42,355,177
+29. Los Angeles Clippers    $33,849,932
+
+
+----
+
+  1 players will earn $22 to 23 million
+  1 players will earn $21 to 22 million
+  0 players will earn $20 to 21 million
+  0 players will earn $19 to 20 million
+  3 players will earn $18 to 19 million
+  1 players will earn $17 to 18 million
+  0 players will earn $16 to 17 million
+  1 players will earn $15 to 16 million
+  2 players will earn $14 to 15 million
+  0 players will earn $13 to 14 million
+  6 players will earn $12 to 13 million
+ 14 players will earn $11 to 12 million
+ 11 players will earn $10 to 11 million
+  6 players will earn $9 to 10 million
+  7 players will earn $8 to 9 million
+  6 players will earn $7 to 8 million
+ 20 players will earn $6 to 7 million
+ 23 players will earn $5 to 6 million
+ 33 players will earn $4 to 5 million
+ 49 players will earn $3 to 4 million
+ 58 players will earn $2 to 3 million
+ 80 players will earn $1 to 2 million
+125 players will earn less than $1 million  [at least $332,817]
+
+The league minimum is $332,817 (rookies) to $1,000,000 (10+ years exp)
+Average: $3,484,310  [447 players 
+                     (only considered players making at least $332,817)]
+ 
+----
+
+Players earning $7 million or more
+ 1.  Kevin Garnett (Min) ......... $22,400,000
+ 2.  Shaquille O'Neal (LAL) ...... $21,428,572
+ 3.  Alonzo Mourning (Mia) ....... $18,754,800
+ 4.  Juwan Howard (Dal) .......... $18,750,000
+ 5.  Scottie Pippen (Por) ........ $18,083,564
+ 6.  Karl Malone (Uta) ........... $17,500,000
+ 7.  Jayson Williams (NJ) ........ $15,125,000  [retired]
+ 8.  Rasheed Wallace (Por) ....... $14,400,000
+ 9.  Dikembe Mutombo (Phi) ....... $14,315,790
+10.  Gary Payton (Sea) ........... $12,926,493
+11.  Allan Houston (NY) .......... $12,750,000
+11.  Chris Webber (Sac) .......... $12,750,000
+13.  Shawn Kemp (Por) ............ $12,660,000
+14.  Damon Stoudamire (Por) ...... $12,375,000
+15.  Reggie Miller (Ind) ......... $12,045,075
+16.  Antonio McDyess (Den) ....... $11,700,000
+17.  Bryant Reeves (Mem) ......... $11,555,554
+18.  Larry Johnson (NY) .......... $11,335,714  [retired]
+19.  Shareef Abdur-Rahim (Atl) ... $11,250,000
+19.  Ray Allen (Mil) ............. $11,250,000
+19.  Vin Baker (Sea) ............. $11,250,000
+19.  Kobe Bryant (LAL) ........... $11,250,000
+19.  Anfernee Hardaway (Pho) ..... $11,250,000
+19.  Zydrunas Ilgauskas (Cle) .... $11,250,000
+19.  Allen Iverson (Phi) ......... $11,250,000
+19.  Stephon Marbury (Pho) ....... $11,250,000
+19.  Latrell Sprewell (NY) ....... $11,250,000
+19.  Antoine Walker (Bos) ........ $11,250,000
+29.  Antonio Davis (Tor) ......... $11,000,000
+30.  Tim Duncan (SA) ............. $10,865,250
+30.  Grant Hill (Orl) ............ $10,865,250
+30.  Tracy McGrady (Orl) ......... $10,865,250
+30.  Jalen Rose (Ind) ............ $10,865,250
+30.  Keith Van Horn (NJ) ......... $10,865,250
+35.  Michael Finley (Dal) ........ $10,625,000
+36.  Vlade Divac (Sac) ........... $10,444,642
+37.  Nick Van Exel (Den) ......... $10,164,642
+38.  Tom Gugliotta (Pho) ......... $10,114,000
+39.  Eddie Jones (Mia) ........... $10,091,250
+40.  Mitch Richmond (Was) ........ $10,000,000  [released]
+41.  Brian Grant (Mia) ...........  $9,925,076
+42.  Tim Thomas (Mil) ............  $9,675,000
+43.  Theo Ratliff (Atl) ..........  $9,667,969
+44.  David Robinson (SA) .........  $9,500,000
+45.  Terrell Brandon (Min) .......  $9,300,000
+46.  Steve Smith (SA) ............  $9,000,000
+47.  Glenn Robinson (Mil) ........  $8,990,000
+48.  Glen Rice (Hou) .............  $8,800,000
+49.  Derrick Coleman (Phi) .......  $8,710,000
+50.  Jason Kidd (NJ) .............  $8,447,500
+51.  Kenny Anderson (Bos) ........  $8,350,000
+52.  Kerry Kittles (NJ) ..........  $8,166,667
+53.  Matt Geiger (Phi) ...........  $8,142,160  [retired]
+54.  Elden Campbell (Cha) ........  $7,975,000
+55.  Toni Kukoc (Atl) ............  $7,906,783
+56.  Clifford Robinson (Det) .....  $7,656,250
+57.  Marcus Camby (NY) ...........  $7,300,000
+58.  Dale Davis (Por) ............  $7,010,000
+59.  John Stockton (Uta) .........  $7,000,000
+
+
+----
+
+Atlanta Hawks           Total: $51,179,169
+  Shareef Abdur-Rahim ........ $11,250,000
+  Theo Ratliff ...............  $9,667,969
+  Toni Kukoc .................  $7,906,783
+  Alan Henderson .............  $6,500,312
+  Nazr Mohammed ..............  $4,500,000
+  Chris Crawford .............  $2,500,000
+  DerMarr Johnson ............  $2,265,240
+  Jason Terry ................  $1,689,360
+  Cal Bowdler ................  $1,179,720
+  Dion Glover ................  $1,027,440
+  Emanual Davis ..............    $715,850  [counts $590,850]
+  Mark Strickland ............    $715,850  [counts $590,850]
+  Jacque Vaughn ..............    $590,850
+  Reggie Slater ..............    $523,793  [counts $432,329]
+  Hanno Mottola ..............    $465,850
+  Dickey Simpkins ............     $26,190  [released, counts $21,616]
+
+Boston Celtics          Total: $47,469,112
+  Antoine Walker ............. $11,250,000
+  Kenny Anderson .............  $8,350,000
+  Vitaly Potapenko ...........  $4,762,500
+  Eric Williams ..............  $4,448,000
+  Tony Battie ................  $3,600,000
+  Walter McCarty .............  $3,125,000
+  Randy Brown ................  $2,475,000
+  Paul Pierce ................  $2,051,271
+  Joe Johnson ................  $1,608,840
+  Kedrick Brown ..............  $1,528,440
+  Roshown McLeod .............  $1,509,001
+  Joseph Forte ...............    $939,360
+  Milt Palacio ...............    $690,000
+  Erick Strickland ...........    $637,415  [counts $590,850]
+  Mark Blount ................    $540,850
+
+Charlotte Hornets       Total: $49,999,445
+  Elden Campbell .............  $7,975,000
+  Jamal Mashburn .............  $6,975,000
+  P.J. Brown .................  $6,404,800
+  Bobby Phills ...............  $5,220,000  [deceased]
+  David Wesley ...............  $3,240,000
+  Baron Davis ................  $3,119,400
+  Robert Traylor .............  $2,793,505
+  Stacey Augmon ..............  $2,400,000
+  George Lynch ...............  $2,400,000
+  Jerome Moiso ...............  $1,571,640
+  Matt Bullard ...............  $1,300,000
+  Bryce Drew .................  $1,300,000
+  Eldridge Recasner ..........  $1,300,000  [released]
+  Kirk Haston ................  $1,182,600
+  Jamaal Magloire ............  $1,048,080
+  Tim James ..................    $837,720  [released]
+  Lee Nailon .................    $465,850
+  Chris Porter ...............    $465,850  [released]
+
+Chicago Bulls           Total: $42,592,857
+  Ron Mercer .................  $6,750,000
+  Charles Oakley .............  $6,545,000
+  Eddie Robinson .............  $5,170,000
+  Brad Miller ................  $4,400,000
+  Tyson Chandler .............  $3,308,160
+  Greg Anthony ...............  $3,000,000
+  Marcus Fizer ...............  $2,754,120
+  Eddy Curry .................  $2,678,400
+  Jamal Crawford .............  $1,894,560
+  Fred Hoiberg ...............  $1,600,000
+  Ron Artest .................  $1,241,760
+  Dalibor Bagaric ............    $854,640
+  Kevin Ollie ................    $590,850
+  Michael Ruffin .............    $540,850  [released]
+  A.J. Guyton ................    $465,850
+  Soumaila Samake ............    $465,850  [released]
+  Trenton Hassell ............    $332,817
+
+Cleveland Cavaliers     Total: $45,649,974
+  Zydrunas Ilgauskas ......... $11,250,000
+  Tyrone Hill ................  $6,600,000
+  Wesley Person ..............  $6,300,000
+  Lamond Murray ..............  $3,750,000
+  Bimbo Coles ................  $2,200,000
+  Chris Mihm .................  $2,067,960
+  Michael Doleac .............  $2,000,856
+  Bryant Stith ...............  $2,000,000
+  Andre Miller ...............  $1,934,520
+  DeSagana Diop ..............  $1,842,480
+  Trajan Langdon .............  $1,604,880
+  Ricky Davis ................  $1,496,400
+  Brian Skinner ..............  $1,483,461
+  Jumaine Jones ..............    $786,600
+  Jeff Trepagnier ............    $332,817
+
+Dallas Mavericks        Total: $57,363,430
+  Juwan Howard ............... $18,750,000
+  Michael Finley ............. $10,625,000
+  Steve Nash .................  $5,750,000
+  Shawn Bradley ..............  $4,500,000
+  Tim Hardaway ...............  $3,360,390
+  Evan Eschmeyer .............  $3,038,000
+  Dirk Nowitzki ..............  $2,157,595
+  Muggsy Bogues ..............  $1,520,860  [released]
+  Danny Manning ..............  $1,500,000
+  Greg Buckner ...............  $1,200,000
+  Johnny Newman ..............  $1,000,000  [counts $590,850]
+  Donnell Harvey .............    $927,360
+  Darrick Martin .............    $778,350  [released, counts $590,850]
+  Adrian Griffin .............    $565,850
+  Leon Smith .................    $517,360  [released]
+  Khalid El-Amin .............    $465,850  [released]
+  Eduardo Najera .............    $465,850
+  Wang Zhizhi ................    $465,850
+  Omar Cook ..................    $292,230
+  Ruben Wolkowyski ...........     $79,535  [released 11/27]
+
+Denver Nuggets          Total: $54,426,938
+  Antonio McDyess ............ $11,700,000
+  Nick Van Exel .............. $10,164,642
+  Tariq Abdul-Wahad ..........  $5,062,500
+  Scott Williams .............  $4,650,000
+  Avery Johnson ..............  $4,538,000
+  Voshon Lenard ..............  $4,252,435
+  Raef LaFrentz ..............  $3,755,142
+  Calbert Cheaney ............  $2,400,000
+  George McCloud .............  $2,400,000
+  Cory Alexander .............  $1,995,741  [released]
+  James Posey ................  $1,120,680
+  Ryan Bowen .................    $630,850
+  Shawnelle Scott ............    $590,850
+  Zendon Hamilton ............    $465,850
+  Kenny Satterfield ..........    $332,817
+  Chris Andersen .............    $288,171
+  Isaiah Rider ...............    $112,797  [released, counts 79,260]
+
+Detroit Pistons         Total: $42,355,177
+  Clifford Robinson ..........  $7,656,250
+  Jerry Stackhouse ...........  $5,843,750
+  Ben Wallace ................  $4,700,000
+  Corliss Williamson .........  $4,000,000
+  Zeljko Rebraca .............  $3,500,000
+  Chucky Atkins ..............  $3,300,000
+  Jon Barry ..................  $3,175,000
+  Mikki Moore ................  $2,531,250
+  Michael Curry ..............  $2,400,000
+  Rodney White ...............  $1,693,560
+  Dana Barros ................  $1,600,000
+  Victor Alexander ...........    $653,350  [counts $590,850]
+  Damon Jones ................    $565,850
+  Brian Cardinal .............    $465,850
+  Ratko Varda ................    $332,817
+
+Golden State Warriors   Total: $47,681,152
+  Erick Dampier ..............  $6,235,000
+  Mookie Blaylock ............  $5,400,000
+  Chris Mills ................  $5,400,000
+  Bob Sura ...................  $5,213,333
+  Danny Fortson ..............  $4,649,534
+  Adonal Foyle ...............  $4,400,000
+  Antawn Jamison .............  $3,388,176
+  Marc Jackson ...............  $3,250,000
+  Cedric Henderson ...........  $3,000,000
+  Jason Richardson ...........  $2,425,440
+  Larry Hughes ...............  $2,343,635
+  Troy Murphy ................  $1,310,400
+  Gilbert Arenas .............    $332,817
+  Dean Oliver ................    $332,817
+
+Houston Rockets         Total: $49,168,169
+  Glen Rice ..................  $8,800,000
+  Maurice Taylor .............  $6,500,000
+  Kelvin Cato ................  $6,048,000
+  Walt Williams ..............  $5,000,000
+  Cuttino Mobley .............  $4,413,375
+  Steve Francis ..............  $3,473,520
+  Moochie Norris .............  $3,600,000
+  Kevin Willis ...............  $3,000,000
+  Matt Maloney ...............  $2,543,750  [released]
+  Eddie Griffin ..............  $2,011,080
+  Jason Collier ..............  $1,280,040
+  Kenny Thomas ...............    $946,920
+  Dan Langhi .................    $465,850
+  Terence Morris .............    $420,000
+  Tierre Brown ...............    $332,817
+  Oscar Torres ...............    $332,817
+
+Indiana Pacers          Total: $53,211,121
+  Reggie Miller .............. $12,045,075
+  Jalen Rose ................. $10,865,250
+  Jermaine O'Neal ............  $6,325,000
+  Austin Croshere ............  $6,310,000
+  Derrick Mckey ..............  $6,000,000  [released]
+  Travis Best ................  $3,375,000
+  Jonathan Bender ............  $2,546,760
+  Al Harrington ..............  $1,436,982
+  Jeff Foster ................    $986,400
+  Carlos Rogers ..............    $778,350  [counts $590,850]
+  Primoz Brezec ..............    $749,160
+  Jamaal Tinsley .............    $749,160
+  Bruno Sundov ...............    $565,850
+  Jamison Brewer .............    $332,817
+  Norman Richardson ..........    $332,817
+
+Los Angeles Clippers    Total: $33,849,932
+  Michael Olowokandi .........  $4,662,472
+  Elton Brand ................  $3,882,360
+  Derek Strong ...............  $3,861,000  [released]
+  Darius Miles ...............  $3,054,840
+  Eric Piatkowski ............  $3,000,000
+  Lamar Odom .................  $2,812,320
+  Sean Rooks .................  $2,400,000
+  Vinny Del Negro ............  $2,275,000  [released]
+  Keyon Dooling ..............  $1,654,320
+  Corey Maggette .............  $1,448,400
+  Will Perdue ................  $1,320,000  [released]
+  Quentin Richardson .........  $1,097,520
+  Earl Boykins ...............    $650,000
+  Harold Jamison .............    $600,000
+  Jeff McInnis ...............    $590,850
+  Obinna Ekezie ..............    $540,850
+
+Los Angeles Lakers      Total: $53,458,686
+  Shaquille O'Neal ........... $21,428,572
+  Kobe Bryant ................ $11,250,000
+  Robert Horry ...............  $5,300,000
+  Rick Fox ...................  $3,791,250
+  Lindsey Hunter .............  $3,425,760
+  Derek Fisher ...............  $3,000,000
+  Samaki Walker ..............  $1,400,000
+  Mitch Richmond .............  $1,000,000  [counts $590,850]
+  Brian Shaw .................    $963,415  [counts $569,234]
+  Devean George ..............    $834,250
+  Mark Madsen ................    $759,960
+  Jelani McCoy ...............    $565,850
+  Stanislav Medvedenko .......    $465,850
+  Joe Crispin ................     $48,705  [released 11/25]
+  Mike Penberthy .............     $28,405  [released 11/10]
+
+Memphis Grizzlies       Total: $50,920,631
+  Bryant Reeves .............. $11,555,554
+  Isaac Austin ...............  $5,695,715
+  Lorenzen Wright ............  $5,500,000
+  Nick Anderson ..............  $5,401,906
+  Brevin Knight ..............  $4,500,000
+  Stromile Swift .............  $3,401,640
+  Pau Gasol ..................  $2,970,840
+  Jason Williams .............  $2,554,072
+  Grant Long .................  $2,400,000
+  Shane Battier ..............  $2,203,080
+  Michael Dickerson ..........  $1,940,702
+  Tony Massenburg ............  $1,650,000
+  Rodney Buford ..............    $481,488
+  Antonis Fotsis .............    $332,817
+  Will Solomon ...............    $332,817
+
+Miami Heat              Total: $52,605,146
+  Alonzo Mourning ............ $18,754,800
+  Eddie Jones ................ $10,091,250
+  Brian Grant ................  $9,925,076
+  Anthony Carter .............  $3,250,000
+  LaPhonso Ellis .............  $3,000,000
+  Chris Gatling ..............  $2,504,227
+  Kendall Gill ...............  $1,538,000
+  Rod Strickland .............  $1,000,000  [counts $590,850]
+  Jim Jackson ................    $789,170  [counts $482,768]
+  Sean Marks .................    $565,850
+  Vladimir Stepania ..........    $565,850
+  Eddie House ................    $465,850
+  Malik Allen ................    $332,817
+  Ernest Brown ...............    $332,817
+  Sam Mack ...................    $174,598  [released, counts $144,110]
+  Tang Hamilton ..............     $60,881  [released 12/2]
+
+Milwaukee Bucks         Total: $56,224,266
+  Ray Allen .................. $11,250,000
+  Tim Thomas .................  $9,675,000
+  Glenn Robinson .............  $8,990,000
+  Jason Caffey ...............  $4,812,500
+  Anthony Mason ..............  $4,538,000
+  Sam Cassell ................  $4,350,000
+  Ervin Johnson ..............  $3,670,929
+  Greg Foster ................  $1,764,247
+  Darvin Ham .................  $1,760,000
+  Joel Przybilla .............  $1,741,440
+  Aleksandar Radojevic .......  $1,524,600  [released]
+  Rafer Alston ...............    $625,000
+  Mark Pope ..................    $590,850
+  Jason Hart .................    $465,850  [released]
+  Michael Redd ...............    $465,850
+
+Minnesota Timberwolves  Total: $54,559,632
+  Kevin Garnett .............. $22,400,000
+  Terrell Brandon ............  $9,300,000
+  Joe Smith ..................  $4,538,000
+  Dean Garrett ...............  $3,240,000
+  Anthony Peeler .............  $2,978,500
+  Chauncey Billups ...........  $2,475,000
+  Wally Szczerbiak ...........  $2,313,240
+  Tom Hammonds ...............  $1,800,000  [released]
+  Radoslav Nesterovic ........  $1,725,788
+  William Avery ..............  $1,375,920
+  Sam Mitchell ...............  $1,000,000  [counts $590,850]
+  Gary Trent .................    $715,850  [counts $590,850]
+  Felipe Lopez ...............    $565,850
+  Maurice Evans ..............    $332,817
+  Loren Woods ................    $332,817
+
+New Jersey Nets         Total: $75,172,371
+  Jayson Williams ............ $15,125,000  [retired]
+  Keith Van Horn ............. $10,865,250
+  Jason Kidd .................  $8,447,500
+  Kerry Kittles ..............  $8,166,667
+  Chris Dudley ...............  $6,200,000  [released]
+  Jim McIlvaine ..............  $6,000,000  [released]
+  Todd MacCulloch ............  $4,538,000
+  Kenyon Martin ..............  $3,801,960
+  Aaron Williams .............  $2,475,000
+  Jamie Feick ................  $2,400,000
+  Lucious Harris .............  $2,400,000
+  Richard Jefferson ..........  $1,379,400
+  Jason Collins ..............  $1,067,400
+  Brandon Armstrong ..........    $865,800
+  Derrick Dial ...............    $540,850
+  Steve Goodrich .............    $465,850
+  Brian Scalabrine ...........    $332,817
+  Reggie Slater ..............    $122,218  [released, counts $100,877]
+
+New York Knicks         Total: $85,457,889
+  Allan Houston .............. $12,750,000
+  Larry Johnson .............. $11,335,714  [retired]
+  Latrell Sprewell ........... $11,250,000
+  Marcus Camby ...............  $7,300,000
+  Luc Longley ................  $6,325,000  [retired]
+  Shandon Anderson ...........  $5,500,000
+  Charlie Ward ...............  $5,110,000
+  Howard Eisley ..............  $4,781,250
+  Clarence Weatherspoon ......  $4,638,000
+  Kurt Thomas ................  $4,413,375
+  Mark Jackson ...............  $3,860,000
+  Travis Knight ..............  $3,600,000
+  Othella Harrington .........  $2,475,000
+  Felton Spencer .............  $1,000,000  [counts $590,850]
+  Larry Robinson .............    $715,850  [counts $590,850]
+  Vernon Maxwell .............    $473,000
+  Lavor Postell ..............    $465,850
+
+Orlando Magic           Total: $45,796,501
+  Grant Hill ................. $10,865,250
+  Tracy McGrady .............. $10,865,250
+  Darrell Armstrong ..........  $4,005,000
+  Jud Buechler ...............  $3,600,000
+  Andrew DeClercq ............  $2,900,000
+  Mike Miller ................  $2,494,080
+  Horace Grant ...............  $2,419,580
+  Patrick Ewing ..............  $2,118,420
+  Pat Garrity ................  $1,569,691
+  Steven Hunter ..............  $1,244,880
+  Don Reid ...................  $1,000,000
+  Jeryl Sasser ...............    $901,800
+  Monty Williams .............    $778,350  [counts $590,850]
+  Laron Profit ...............    $630,850  [released]
+  Troy Hudson ................    $590,850
+
+Philadelphia 76ers      Total: $58,073,366
+  Dikembe Mutombo ............ $14,315,790
+  Allen Iverson .............. $11,250,000
+  Derrick Coleman ............  $8,710,000
+  Matt Geiger ................  $8,142,160  [retired]
+  Aaron McKie ................  $4,000,000
+  Eric Snow ..................  $3,750,000
+  Matt Harpring ..............  $1,908,401
+  Corie Blount ...............  $1,609,235
+  Speedy Claxton .............  $1,006,200
+  Vonteego Cummings ..........    $810,000
+  Samuel Dalembert ...........    $771,480
+  Raja Bell ..................    $540,850
+  Michael Ruffin .............    $468,297
+  Alvin Jones ................    $332,817
+  Damone Brown ...............    $332,817
+  Tim James ..................    $105,532  [released 12/3]
+  Ira Bowman .................     $19,787  [released 11/6]
+
+Phoenix Suns            Total: $56,187,219
+  Anfernee Hardaway .......... $11,250,000
+  Stephon Marbury ............ $11,250,000
+  Tom Gugliotta .............. $10,114,000
+  Bo Outlaw ..................  $6,000,000
+  Rex Chapman ................  $3,850,000  [released]
+  John Wallace ...............  $2,630,000
+  Tony Delk ..................  $2,475,000
+  Rodney Rogers ..............  $2,400,000
+  Shawn Marion ...............  $1,778,160
+  Johnny Newman ..............  $1,675,000  [released]
+  Dan Majerle ................  $1,000,000  [counts $590,850]
+  Jake Tsakalidis ............    $820,400
+  Daniel Santiago ............    $465,850
+  Jake Voskuhl ...............    $465,850
+  Alton Ford .................    $332,817
+  Charlie Bell ...............     $89,292  [released 12/11]
+
+Portland Trailblazers   Total: $83,758,700
+  Scottie Pippen ............. $18,083,564
+  Rasheed Wallace ............ $14,400,000
+  Shawn Kemp ................. $12,660,000
+  Damon Stoudamire ........... $12,375,000
+  Dale Davis .................  $7,010,000
+  Derek Anderson .............  $6,495,000
+  Ruben Patterson ............  $4,538,000
+  Steve Kerr .................  $2,406,250
+  Bonzi Wells ................  $2,028,239
+  Zach Randolph ..............  $1,019,280
+  Chris Dudley ...............  $1,000,000  [counts $590,850]
+  Mitchell Butler ............    $715,850  [counts $590,850]
+  Erick Barkley ..............    $638,000
+  Rick Brunson ...............    $590,850
+  Ruben Boumtje-Boumtje ......    $332,817
+
+Sacramento Kings        Total: $54,921,012
+  Chris Webber ............... $12,750,000
+  Vlade Divac ................ $10,444,642
+  Doug Christie ..............  $5,200,000
+  Predrag Stojakovic .........  $5,000,000
+  Scot Pollard ...............  $4,344,187
+  Mike Bibby .................  $4,174,893
+  Brent Price ................  $3,680,000
+  Lawrence Funderburke .......  $3,025,000
+  Bobby Jackson ..............  $2,475,000
+  Mateen Cleaves .............  $1,347,480
+  Hidayet Turkoglu ...........  $1,216,080
+  Gerald Wallace .............    $797,880
+  Jabari Smith ...............    $465,850
+
+San Antonio Spurs       Total: $45,719,814
+  Tim Duncan ................. $10,865,250
+  David Robinson .............  $9,500,000
+  Steve Smith ................  $9,000,000
+  Jaren Jackson ..............  $3,020,834  [released]
+  Antonio Daniels ............  $3,000,000
+  Terry Porter ...............  $2,400,000
+  Malik Rose .................  $2,285,000
+  Mark Bryant ................  $1,000,000
+  Danny Ferry ................  $1,000,000
+  Tony Parker ................    $744,480
+  Bruce Bowen ................    $715,850
+  Cherokee Parks .............    $715,850  [counts $590,850]
+  Stephen Jackson ............    $590,850
+  Charles Smith ..............    $540,850
+  Amal McCaskill .............    $465,850
+
+Seattle Sonics          Total: $45,431,733
+  Gary Payton ................ $12,926,493
+  Vin Baker .................. $11,250,000
+  Brent Barry ................  $4,680,000
+  Calvin Booth ...............  $4,539,000
+  Rashard Lewis ..............  $4,413,375
+  Shammond Williams ..........  $1,750,000
+  Vladimir Radmanovic ........  $1,452,000
+  Desmond Mason ..............  $1,155,240
+  Antonio Harvey .............    $715,850  [counts $590,850]
+  Predrag Drobnjak ...........    $478,558
+  Jerome James ...............    $465,850
+  Art Long ...................    $465,850
+  Olumide Oyedeji ............    $465,850
+  Ruben Wolkowyski ...........    $465,850  [released]
+  Earl Watson ................    $332,817
+
+Toronto Raptors         Total: $52,282,161
+  Antonio Davis .............. $11,000,000
+  Alvin Williams .............  $5,350,000
+  Chris Childs ...............  $5,200,000
+  Hakeem Olajuwon ............  $5,061,539
+  Jerome Williams ............  $5,000,000
+  Michael Stewart ............  $3,840,000
+  Tracy Murray ...............  $3,400,000
+  Vince Carter ...............  $3,073,032
+  Eric Montross ..............  $2,480,000
+  Dell Curry .................  $2,100,000
+  Keon Clark .................  $1,971,163
+  Michael Bradley ............  $1,123,560
+  Morris Peterson ............    $966,000
+  Don MacLean ................    $965,850  [released, counts $590,850]
+  Mamadou N'diaye ............    $793,200
+  Carlos Arroyo ..............    $332,817
+
+Utah Jazz               Total: $52,642,362
+  Karl Malone ................ $17,500,000
+  John Stockton ..............  $7,000,000
+  Greg Ostertag ..............  $6,933,328
+  Donyell Marshall ...........  $6,510,000
+  Bryon Russell ..............  $5,142,857
+  John Starks ................  $2,475,000
+  John Amaechi ...............  $2,175,000
+  Quincy Lewis ...............  $1,070,280
+  John Crotty ................  $1,000,000
+  DeShawn Stevenson ..........    $890,280
+  Andrei Kirilenko ...........    $831,120
+  Scott Padgett ..............    $781,680
+  Jarron Collins .............    $332,817
+
+Washington Wizards      Total: $54,776,087
+  Mitch Richmond ............. $10,000,000  [released]
+  Loy Vaught .................  $5,222,025  [released]
+  Christian Laettner .........  $4,500,000
+  Jahidi White ...............  $4,413,375
+  Rod Strickland .............  $3,750,000  [released]
+  Kwame Brown ................  $3,697,440
+  Tyrone Nesby ...............  $3,260,000
+  Chris Whitney ..............  $2,700,000
+  Hubert Davis ...............  $2,418,750
+  Michael Smith ..............  $2,400,000  [released]
+  Richard Hamilton ...........  $2,111,640
+  Lorenzo Williams ...........  $1,880,000  [released]
+  Tyronn Lue .................  $1,700,000
+  Popeye Jones ...............  $1,500,000
+  Etan Thomas ................  $1,493,040
+  Courtney Alexander .........  $1,418,400
+  Michael Jordan .............  $1,000,000
+  Brendan Haywood ............    $978,600
+  Bobby Simmons ..............    $332,817
+
+
+----
+Patricia Bender         
+pbender@eskimo.com
+http://www.eskimo.com/~pbender/index.html
+

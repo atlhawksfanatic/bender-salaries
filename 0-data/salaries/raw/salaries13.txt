@@ -1,0 +1,858 @@
+
+2012-2013 NBA Salaries
+
+Based on the rosters for 2/27/13
+
+Compiled by me (Patricia Bender) from my own information and sources.
+With many thanks to those sources!  The NBA does not officially release
+the players' salaries.  This list is a hodge-podge from a few sources,
+known information, and my own calculations.  As always, the list is
+likely not 100% accurate.
+
+With the 2012 Collective Bargaining Agreement is an amnesty clause 
+where teams could release a player and his salary would not count against
+the team's salary cap or luxury tax, but the team would still be paying 
+the salary owed the player - minus any amount the player was being paid 
+by another team if he was picked up during the waiver period.  The 
+players whom were amnestied are listed with his former team with the note
+of "amnesty rel (date), dnc" after the salary the team owes him (which is
+the difference between the original salary and his salary with his new 
+team).  I'm also noting his listing with his new team as "amnesty pickup".
+The salary with his old team is not included with team's total, but is 
+included for the league average salary.
+12-13 Amnestied players:
+  Elton Brand by Philadelphia 7/11, picked up by Dallas 7/13
+  Brendan Haywood by Dallas 7/12, picked up by Charlotte 7/14
+  Luis Scola by Houston 7/13, picked up by Phoenix 7/15
+  Chris Andersen by Denver 7/17
+  Andray Blatche by Washington 7/17
+  Josh Childress by Phoenix 7/15
+  Ryan Gomes by LA Clippers 7/17
+  Darko Milicic by Minnesota 7/12
+11-12 Amnestied players with 12-13 salaries:
+  Travis Outlaw 12/15/12 by New Jersey(Brooklyn), picked up by Sacramento
+  Gilbert Arenas 12/9/12 by Orlando
+  Baron Davis 12/14/12 by Cleveland
+  Brandon Roy 12/15/12 by Portland
+
+Also note that with the 2012 Collective Bargaining Agreement instead of 
+creating new listings, they "froze" the minimum salary amounts for 
+2010-11 [even though the old CBA had a listing for 2011-12] and the 1st
+round draft pick rookie scale amounts for 2010-11.
+
+Players with more than 2 years of experience and signed to minimum, one
+year contracts only count $854,389 against a team's cap (the league pays
+any amount over that amount) [or the prorated amount from when the player
+was signed or released].  I've listed the player's actual salary in the
+listing and for the overall average, but used the $854,389 amount for the
+player's team payroll.  Released players signed to non-guaranteed
+contracts and minimum players signed during the season are prorated for
+the number of days they were with the team or the number of days left in
+the season from when they signed.  There were 3 10-day contracts on the
+rosters at the time I did this list - those player's salaries are
+prorated for the rest of the season (D.J. White (Bos), Terrence Williams
+(Bos), Kenyon Martin (NY)).
+
+I've noted where a player's salary is part of a 1st round draft pick 
+rookie contract.  1st round draft picks are signed to 4 year contracts
+(the 1st and 2nd years guaranteed and 3rd and 4th years at the team's 
+option) with the amount a set range based on the draft pick number where
+the player was selected.
+
+The team's payroll is totaled from the individual salaries I have listed.
+The actual team payroll maybe different from what I have listed as there
+maybe other small salaries that I didn't include (ie, some camp-fodder
+players from training camp ended up counting a small amount), there might
+be some bonuses and trade kickers that count that I don't know about,
+and/or some salaries might not be accurate - but the amount is probably
+close the real amount.
+
+Abbreviations when space is a concern to keep everything on one line:
+m or min = minimum
+c = counts (amount counts against team's salary cap)
+dnc = does not count against the team's salary cap
+s = signed
+r or rel = released
+s 1/7-1/23 = 2nd date is date of release
+if year not listed, the signing/release for this season
+
+----
+
+The league salary cap for 2012-13 is $58.044 million.  The league has a 
+soft cap - which means teams can go over the cap to re-sign their own
+free agents and can sign players to minimum contracts even if they are
+over the cap.
+
+
+Team Payrolls
+    Team                       Payroll
+ 1. Los Angeles Lakers ..... $99,953,801
+ 2. Brooklyn Nets .......... $83,042,384
+ 3. Miami Heat ............. $83,011,232
+ 4. New York Knicks ........ $78,664,232
+ 5. Chicago Bulls .......... $74,258,006
+ 6. Boston Celtics ......... $71,949,512
+ 7. San Antonio Spurs ...... $69,787,704
+ 8. Golden State Warriors .. $69,695,346
+ 9. Los Angeles Clippers ... $69,472,515
+10. Oklahoma City Thunder .. $67,495,859
+11. Philadelphia 76ers ..... $67,234,862
+12. Utah Jazz .............. $66,954,950
+13. Atlanta Hawks .......... $66,656,919
+14. Toronto Raptors ........ $66,612,106
+15. Indiana Pacers ......... $66,598,712
+16. Orlando Magic .......... $66,306,896
+17. Denver Nuggets ......... $64,040,062
+18. New Orleans Hornets .... $63,517,041
+19. Minnesota Timberwolves . $63,183,910
+20. Detroit Pistons ........ $63,057,497
+21. Memphis Grizzlies ...... $62,954,838
+22. Milwaukee Bucks ........ $61,603,737
+23. Dallas Mavericks ....... $61,504,024
+24. Portland Trailblazers .. $58,443,389
+25. Washington Wizards ..... $58,087,938
+26. Charlotte Bobcats ...... $57,491,899
+27. Houston Rockets ........ $57,323,787
+28. Sacramento Kings ....... $54,317,436
+29. Cleveland Cavaliers .... $53,352,075
+30. Phoenix Suns ........... $53,346,982
+
+----
+
+  1 players will earn $27 to 28 million
+  0 players will earn $26 to 27 million
+  0 players will earn $25 to 26 million
+  0 players will earn $24 to 25 million
+  0 players will earn $23 to 24 million
+  0 players will earn $22 to 23 million
+  0 players will earn $21 to 22 million
+  2 players will earn $20 to 21 million
+  5 players will earn $19 to 20 million
+  0 players will earn $18 to 19 million
+  5 players will earn $17 to 18 million
+  8 players will earn $16 to 17 million
+  2 players will earn $15 to 16 million
+  3 players will earn $14 to 15 million
+ 15 players will earn $13 to 14 million
+  6 players will earn $12 to 13 million
+  6 players will earn $11 to 12 million
+  8 players will earn $10 to 11 million
+  5 players will earn $9 to 10 million
+ 22 players will earn $8 to 9 million
+ 14 players will earn $7 to 8 million
+ 14 players will earn $6 to 7 million
+ 28 players will earn $5 to 6 million
+ 35 players will earn $4 to 5 million
+ 51 players will earn $3 to 4 million
+ 51 players will earn $2 to 3 million
+109 players will earn $1 to 2 million
+ 53 players will earn less than $1 million  [at least $473,604]
+
+The league minimum is $473,604 (rookies) to $1,352,181 (10+ years exp)
+Average: $4,732,305
+         [443 players (only considered players making at least $473,604)]
+
+
+---------
+
+Players earning $9 million or more
+  1. Kobe Bryant (LAL) .......... $27,849,149
+  2. Dirk Nowitzki (Dal) ........ $20,907,128
+  3. Gilbert Arenas (Orl) ....... $20,807,922  amnesty rel 12/9/12
+  4. Amare Stoudemire (NY) ...... $19,948,799
+  5. Joe Johnson (Bro) .......... $19,752,645
+  6. Dwight Howard (LAL) ........ $19,536,360
+  7. Carmelo Anthony (NY) ....... $19,450,000
+  8. Pau Gasol (LAL) ............ $19,000,000
+  9. Chris Paul (LAC) ........... $17,779,458
+ 10. Chris Bosh (Mia) ........... $17,545,000
+ 10. LeBron James (Mia) ......... $17,545,000
+ 12. Dwyane Wade (Mia) .......... $17,182,000
+ 13. Deron Williams (Bro) ....... $17,177,795
+ 14. Andrew Bynum (Phi) ......... $16,889,000
+ 15. Paul Pierce (Bos) .......... $16,790,345
+ 16. Kevin Durant (OKC) ......... $16,669,630
+ 17. Zach Randolph (Mem) ........ $16,500,000
+ 18. Rudy Gay (Tor) ............. $16,460,538
+ 19. Derrick Rose (Chi) ......... $16,402,500
+ 20. Brandon Roy (Por) .......... $16,359,805  amnesty rel 12/15/12
+ 21. Elton Brand (Phi) .......... $16,059,854  amnesty rel 7/11
+ 22. Carlos Boozer (Chi) ........ $15,000,000
+ 22. Al Jefferson (Uta) ......... $15,000,000
+ 24. Andre Iguodala (Den) ....... $14,968,250
+ 25. Baron Davis (Cle)........... $14,850,000  amnesty rel 12/14/12
+ 26. Manu Ginobili (SA) ......... $14,107,492
+ 27. Marc Gasol (Mem) ........... $13,891,359
+ 28. Rashard Lewis (NO) ......... $13,700,000  released 6/30
+ 29. Eric Gordon (NO) ........... $13,668,750
+ 29. Roy Hibbert (Ind) .......... $13,686,750
+ 29. Brook Lopez (Bro) .......... $13,668,750
+ 29. Kevin Love (Min) ........... $13,668,750
+ 29. Russell Westbrook (OKC) .... $13,668,750
+ 34. Tyson Chandler (NY) ........ $13,604,188
+ 35. LaMarcus Aldridge (Por) .... $13,500,000
+ 36. Emeka Okafor (Was) ......... $13,490,000
+ 37. Luol Deng (Chi) ............ $13,305,000
+ 38. Josh Smith (Atl) ........... $13,200,000
+ 39. Danny Granger (Ind) ........ $13,058,606
+ 40. Andrew Bogut (GS) .......... $13,000,000
+ 40. Nene (Was) ................. $13,000,000
+ 42. David Lee (GS) ............. $12,744,000
+ 43. Tony Parker (SA) ........... $12,500,000
+ 44. Kevin Martin (OKC) ......... $12,439,675
+ 45. Ben Gordon (Cha) ........... $12,400,000
+ 46. Al Horford (Atl) ........... $12,000,000
+ 46. Kris Humphries (Bro) ....... $12,000,000
+ 48. Hedo Turkoglu (Orl) ........ $11,815,850
+ 49. Kevin Garnett (Bos) ........ $11,566,265
+ 50. Joakim Noah (Chi) .......... $11,300,000
+ 51. Jose Calderon (Det) ........ $11,046,591
+ 52. Monta Ellis (Mil) .......... $11,000,000
+ 52. Rajon Rondo (Bos) .......... $11,000,000
+ 54. Corey Maggette (Det) ....... $10,924,138
+ 55. Nicolas Batum (Por) ........ $10,850,000
+ 56. DeAndre Jordan (LAC) ....... $10,532,977
+ 57. Richard Jefferson (GS) ..... $10,164,000
+ 58. Stephen Jackson (SA) ....... $10,059,750
+ 59. Andrea Bargnani (Tor) ...... $10,000,000
+ 59. JaVale McGee (Den) ......... $10,000,000
+ 59. David West (Ind) ........... $10,000,000
+ 62. Andrei Kirilenko (Min) .....  $9,779,349
+ 63. Gerald Wallace (Bro) .......  $9,682,435
+ 64. Tim Duncan (SA) ............  $9,638,554
+ 65. Danilo Gallinari (Den) .....  $9,439,000
+ 66. Andris Biedrins (GS) .......  $9,000,000
+
+
+----
+
+Atlanta Hawks .......... Total $66,656,919
+  Josh Smith ................. $13,200,000
+  Al Horford ................. $12,000,000
+  Devin Harris ...............  $8,500,000
+  Zaza Pachulia ..............  $5,248,750
+  Kyle Korver ................  $5,000,000
+  Louis Williams .............  $5,000,000
+  Johan Petro ................  $3,500,000
+  Dahntay Jones ..............  $2,900,000
+  Jeff Teague ................  $2,433,077  4th year of rookie contract
+  DeShawn Stevenson ..........  $2,240,450
+  John Jenkins ...............  $1,204,560  1st year of rookie contract
+  Jordan Farmer ..............  $1,500,000  released 7/16
+  Ivan Johnson ...............    $962,195
+  Anthony Tolliver ...........    $915,852  minimum, counts $854,389
+  Jeremy Tyler ...............    $762,195  minimum
+  Jordan Williams ............    $762,195  minimum, released 9/18
+  Mike Scott .................    $473,604  minimum
+  Jeremy Pargo ...............    $165,487  m, s 1/21, r 2/13, c $115,504
+
+----
+
+Boston Celtics ......... Total $71,949,512
+  Paul Pierce ................ $16,790,345
+  Kevin Garnett .............. $11,566,265
+  Rajon Rondo ................ $11,000,000
+  Jeff Green .................  $8,385,000
+  Brandon Bass ...............  $6,000,000
+  Courtney Lee ...............  $5,000,000
+  Jason Terry ................  $5,000,000
+  Avery Bradley ..............  $1,630,800  3rd year of rookie contract
+  Keyon Dooling ..............  $1,352,181  min, rel 9/21, c $854,389
+  Chris Wilcox ...............  $1,352,181  minimum, counts $854,389
+  Jared Sullinger ............  $1,306,920  1st year of rookie contract
+  Fab Melo ...................  $1,254,720  1st year of rookie contract
+  Jordan Crawford ............  $1,198,680  3rd year of rookie contract
+  Terrence Williams ..........    $296,776  min, s 2/20, counts $286,472
+  D.J. White .................    $269,368  min, s 2/27, counts $251,291
+  Dointe Christmas ...........    $236,800  released 10/16
+  Kris Joseph ................    $189,442  minimum, released 1/6
+  Darko Milicic ..............    $159,080  min, r 11/21, counts $110,568
+  Jarvis Varnado .............     $33,431  min, signed 12/25, rel 1/6
+
+----
+
+Brooklyn Nets .......... Total $83,042,384
+  Joe Johnson ................ $19,752,645
+  Deron Williams ............. $17,177,795
+  Brook Lopez ................ $13,668,750
+  Kris Humphries ............. $12,000,000
+  Gerald Wallace .............  $9,682,435
+  Mirza Teletovic ............  $3,090,000
+  Reggie Evans ...............  $1,622,617
+  Jerry Stackhouse ...........  $1,352,181  minimum, counts $854,389
+  Keith Bogans ...............  $1,229,225  minimum, counts $854,389
+  MarShon Brooks .............  $1,193,280  2nd year of rookie contract
+  Andray Blatche .............  $1,146,337  minimum, counts $854,389
+  Travis Outlaw ..............  $1,000,000  amnesty rel 12/15/12, dnc
+  C.J. Watson ................    $992,680  minimum (multi-year)
+  Tornike Shengelia ..........    $473,604  minimum
+  Tyshawn Taylor .............    $473,604  minimum
+  Josh Childress .............    $377,474  min, r 12/29, counts $301,549
+  Damion James ...............     $50,258  minimum, s 1/15, rel 1/25
+
+----
+
+Charlotte Bobcats ...... Total $57,491,899
+  Ben Gordon ................. $12,400,000
+  Tyrus Thomas ...............  $8,000,000
+  DeSagana Diop ..............  $7,372,200
+  Ramon Sessions .............  $5,000,000
+  Michael Kidd-Gilchrist .....  $4,602,720  1st year of rookie contract
+  Josh McRoberts .............  $3,135,000
+  Gerald Henderson ...........  $3,101,327  4th year of rookie contract
+  Bismack Biyombo ............  $3,007,920  2nd year of rookie contract
+  Reggie Williams ............  $2,612,500
+  Kemba Walker ...............  $2,532,960  2nd year of rookie contract
+  Byron Mullens ..............  $2,253,306  4th year of rookie contract
+  Brendan Haywood ............  $2,050,000  amnesty pickup from Dal
+  Jeff Adrien ................    $804,131  minimum, signed 12/9
+  Jeffrey Taylor .............    $575,000
+  Cory Higgins ...............     $44,835  minimum, released 12/9 
+
+----
+
+Chicago Bulls .......... Total $74,258,006
+  Derrick Rose ............... $16,402,500
+  Carlos Boozer .............. $15,000,000
+  Luol Deng .................. $13,305,000
+  Joakim Noah ................ $11,300,000
+  Richard Hamilton ...........  $5,000,000
+  Kirk Hinrich ...............  $3,941,000
+  Taj Gibson .................  $2,155,811  4th year of rookie contract
+  Marco Belinelli ............  $1,957,000
+  Nazr Mohammed ..............  $1,352,181  minimum, counts $854,389
+  Vladimir Radmanovic ........  $1,352,181  minimum, counts $854,389
+  Nate Robinson ..............  $1,146,337  minimum, counts $854,389
+  Jimmy Butler ...............  $1,097,520  2nd year of rookie contract
+  Marquis Teague .............  $1,028,400  1st year of rookie contract
+  Daequan Cook ...............    $589,769  min, s 1/6, counts $507,608
+
+----
+
+Cleveland Cavaliers .... Total $53,352,075
+  Baron Davis ................ $14,850,000  amnesty rel 12/14/12, dnc
+  Anderson Varejao ...........  $8,368,182
+  Luke Walton ................  $6,091,363
+  Kyrie Irving ...............  $5,530,080  2nd year of rookie contract
+  Daniel Gibson ..............  $4,792,332
+  Marreese Speights ..........  $4,200,000
+  Tristan Thompson ...........  $4,006,080  2nd year of rookie contract
+  Dion Waiters ...............  $3,726,600  1st year of rookie contract
+  Alonzo Gee .................  $3,500,000
+  Omri Casspi ................  $2,277,306  4th year of rookie contract
+  C.J. Miles .................  $2,225,000
+  Wayne Ellington ............  $2,083,042  4th year of rookie contract
+  Tyler Zeller ...............  $1,563,120  1st year of rookie contract
+  Luke Harangody .............  $1,054,389  minimum, released 11/29
+  Kelenna Azubuike ...........    $885,120  min, rel 10/14, c $854,389
+  Shaun Livingston ...........    $768,720  min, s 12/25, c $572,943 
+  Jeremy Pargo ...............    $762,195  minimum, released 1/22
+  Josh Selby .................    $762,195  minimum
+  Kevin Jones ................    $390,027  minimum, signed 11/29
+  Samardo Samuels ............    $341,756  minimum, released 1/6
+  Donald Sloan ...............    $251,076  minimum, released 12/25
+
+----
+
+Dallas Mavericks ....... Total $61,504,024
+  Dirk Nowitzki .............. $20,907,128
+  Shawn Marion ...............  $8,646,364
+  Chris Kaman ................  $8,000,000
+  Brendan Haywood ............  $6,299,000  amnesty released 7/12, dnc
+  O.J. Mayo ..................  $4,020,000
+  Anthony Morrow .............  $4,000,000
+  Vince Carter ...............  $3,090,000
+  Darren Collison ............  $2,319,344  4th year of rookie contract
+  Rodrigue Beaubois ..........  $2,227,333  4th year of rookie contract
+  Elton Brand ................  $2,100,500  amnesty pickup from Phi
+  Dominique Jones ............  $1,276,560  3rd year of rookie contract
+  Jared Cunningham ...........  $1,156,320  1st year of rookie contract
+  Delonte West ...............    $992,680  min, rel 10/29, c $854,389
+  Brandan Wright .............    $992,680  minimum (multi-year)
+  Mike James .................    $795,401  min, s 1/8, counts $502,582
+  Jae Crowder ................    $600,491
+  Bernard James ..............    $473,604  minimum
+  Troy Murphy ................    $214,758  m, s 11/2, r 11/29, c $135,697
+  Derek Fisher ...............    $182,942  m, s 11/29, r 12/22, c $115,594
+  Chris Douglas-Roberts ......     $72,892  min, s 12/23, r 1/6, c $70,361
+  Eddy Curry .................     $23,852  min, rel 11/2, counts $15,077
+
+----
+
+Denver Nuggets ......... Total $64,040,062
+  Andre Iguodala ............. $14,968,250
+  JaVale McGee ............... $10,000,000
+  Danilo Gallinari ...........  $9,439,000
+  Wilson Chandler ............  $5,930,414
+  Andre Miller ...............  $5,000,000
+  Chris Andersen .............  $4,526,000  amnesty rel 7/17, dnc
+  Corey Brewer ...............  $3,243,000
+  Timofey Mozgov .............  $3,140,429
+  Kosta Koufos ...............  $3,000,000
+  Ty Lawson ..................  $2,544,529  4th year of rookie contract
+  Anthony Randolph ...........  $1,674,641
+  Evan Fournier ..............  $1,361,400  1st year of rookie contract
+  Kenneth Faried .............  $1,348,800  2nd year of rookie contract
+  Jordan Hamilton ............  $1,153,800  2nd year of rookie contract
+  Julyan Stone ...............    $762,195  minimum
+  Quincy Miller ..............    $473,604  minimum
+
+----
+
+Detroit Pistons ........ Total $63,057,497
+  Jose Calderon .............. $11,046,591
+  Corey Maggette ............. $10,924,138
+  Rodney Stuckey .............  $8,500,000
+  Charlie Villanueva .........  $8,060,000
+  Jason Maxiell ..............  $5,000,000
+  Jonas Jerebko ..............  $4,500,000
+  Will Bynum .................  $3,250,000
+  Greg Monroe ................  $3,217,680  3rd year of rookie contract
+  Brandon Knight .............  $2,755,560  2nd year of rookie contract
+  Andre Drummond .............  $2,356,320  1st year of rookie contract
+  Sasha Kravtsov .............  $1,500,000
+  Kyle Singler ...............  $1,000,000
+  Kim English ................    $473,604  minimum
+  Khris Middleton ............    $473,604  minimum
+
+----
+
+Golden State Warriors .. Total $69,695,346
+  Andrew Bogut ............... $13,000,000
+  David Lee .................. $12,744,000
+  Richard Jefferson .......... $10,164,000
+  Andris Biedrins ............  $9,000,000
+  Jarrett Jack ...............  $5,400,000
+  Carl Landry ................  $4,000,000
+  Brandon Rush ...............  $4,000,000
+  Stephen Curry ..............  $3,958,742  4th year of rookie contract
+  Harrison Barnes ............  $2,798,040  1st year of rookie contract
+  Klay Thompson ..............  $2,286,000  2nd year of rookie contract
+  Festus Ezeli ...............  $1,020,960  1st year of rookie contract
+  Draymond Green .............    $850,000
+  Kent Bazemore ..............    $473,604  minimum
+
+----
+
+Houston Rockets ........ Total $57,323,787
+  Omer Asik ..................  $8,374,646
+  Jeremy Lin .................  $8,374,646
+  Francisco Garcia ...........  $6,100,000
+  James Harden ...............  $5,820,417  4th year of rookie contract
+  Luis Scola .................  $5,259,697  amnesty released 7/13, dnc
+  Thomas Robinson ............  $3,374,640  1st year of rookie contract
+  Daequan Cook ...............  $3,090,042  minimum, released 1/2
+  Carlos Delfino .............  $3,000,000
+  Royce White ................  $1,645,440  1st year of rookie contract
+  Gary Forbes ................  $1,500,000  released 10/29
+  Terrence Jones .............  $1,485,000  1st year of rookie contract
+  Donatas Motiejunas .........  $1,453,520  2nd year of rookie contract
+  Lazar Hayward ..............  $1,174,080  rel 10/29, 3rd year rookie con
+  JaJuan Johnson .............  $1,120,440  rel 10/29, 2nd year rookie con
+  Jon Brockman ...............  $1,000,000  released 10/29
+  Shaun Livingston ...........  $1,000,000  released 10/29
+  Chandler Parsons ...........    $888,250
+  Tyler Honeycutt ............    $809,875
+  Greg Smith .................    $762,195  minimum
+  James Anderson .............    $472,427  minimum, signed 1/2
+  Patrick Beverley ...........    $281,377  minimum, signed 1/7
+  Scott Machado ..............    $192,228  minimum, released 1/7
+  Tim Ohlbrecht ..............    $144,867  minimum, signed 2/25
+
+----
+
+Indiana Pacers ......... Total $66,598,712
+  Roy Hibbert ................ $13,686,750
+  Danny Granger .............. $13,058,606
+  David West ................. $10,000,000
+  George Hill ................  $8,000,000
+  Ian Mahinmi ................  $4,000,000
+  D.J. Augustin ..............  $3,500,000
+  Gerald Green ...............  $3,500,000
+  Tyler Hansbrough ...........  $3,055,259  4th year of rookie contract
+  Paul George ................  $2,574,120  3rd year of rookie contract
+  Jeff Pendergraph ...........  $1,500,000
+  Miles Plumlee ..............  $1,073,280  1st year of rookie contract
+  Lance Stephenson ...........    $870,000
+  Sam Young ..................    $723,716  m, rel 1/7, s 1/28, c $698,589
+  Orlando Johnson ............    $550,000
+  Ben Hansbrough .............    $473,604  minimum
+  Dominic McGuire ............    $122,625  min, s 1/7, r 1/28, c $58,504
+
+----
+
+Los Angeles Clippers ... Total $69,472,515
+  Chris Paul ................. $17,779,458
+  DeAndre Jordan ............. $10,532,977
+  Lamar Odom .................  $8,200,000
+  Caron Butler ...............  $8,000,000
+  Blake Griffin ..............  $7,226,892  4th year of rookie contract
+  Jamal Crawford .............  $5,000,000
+  Chauncey Billups ...........  $4,000,000
+  Ryan Gomes .................  $4,000,000  amnesty rel 7/17, dnc
+  Grant Hill .................  $1,975,000
+  Eric Bledsoe ...............  $1,707,720  3rd year of rookie contract
+  Willie Green ...............  $1,475,106
+  Matt Barnes ................  $1,229,255  minimum, counts $854,389
+  Ronny Turiaf ...............  $1,146,337  minimum, counts $854,389
+  Ryan Hollins ...............  $1,069,509  minimum, counts $854,389
+  Trey Thompkins .............    $762,195  minimum
+  Travis Leslie ..............    $250,000  minimum, released 10/30
+
+----
+
+Los Angeles Lakers ..... Total $99,953,801
+  Kobe Bryant ................ $27,849,149
+  Dwight Howard .............. $19,536,360
+  Pau Gasol .................. $19,000,000
+  Steve Nash .................  $8,900,000
+  Metta World Peace ..........  $7,258,960
+  Steve Blake ................  $4,000,000
+  Jordan Hill ................  $3,632,527  4th year of rookie contract
+  Chris Duhon ................  $3,500,000
+  Jodie Meeks ................  $1,500,000
+  Antawn Jamison .............  $1,352,181  minimum, counts $854,389
+  Earl Clark .................  $1,240,000
+  Devin Ebanks ...............  $1,054,389
+  Darius Morris ..............    $962,195
+  Robert Sacre ...............    $473,604  minimum
+  Darius Johnson-Odom ........    $192,228  minimum, released 1/7
+
+----
+
+Memphis Grizzlies ...... Total $62,954,838
+  Zach Randolph .............. $16,500,000
+  Marc Gasol ................. $13,891,359
+  Mike Conley ................  $7,305,786
+  Tayshaun Prince ............  $6,764,045
+  Tony Allen .................  $3,300,000
+  Darrell Arthur .............  $3,006,217
+  Jerryd Bayless .............  $3,000,000
+  Austin Daye ................  $2,958,077  4th year of rookie contract
+  Ed Davis ...................  $2,207,040  3rd year of rookie contract
+  Quincy Pondexter ...........  $1,234,320  3rd year of rookie contract
+  Tony Wroten ................  $1,110,120  1st year of rookie contract
+  Dexter Pittman .............    $854,389  minimum
+  Jon Leuer ..................    $762,195  minimum
+  Chris Johnson ..............     $61,290  min, s 1/23, rel 2/14
+
+----
+
+Miami Heat ............. Total $83,011,232
+  Chris Bosh ................. $17,545,000
+  LeBron James ............... $17,545,000
+  Dwyane Wade ................ $17,182,000
+  Mike Miller ................  $5,800,000
+  Udonis Haslem ..............  $4,060,000
+  Mario Chalmers .............  $4,000,000
+  Joel Anthony ...............  $3,750,000
+  Shane Battier ..............  $3,135,000
+  Ray Allen ..................  $3,090,000
+  James Jones ................  $1,757,161  released 6/29/10 
+  James Jones ................  $1,500,000  [2 listings for Jones]
+  Rashard Lewis ..............  $1,352,181
+  Norris Cole ................  $1,035,960  2nd year of rookie contract
+  Chris Andersen .............    $699,952  min, s 1/20, counts $442,272
+  Josh Harrellson ............    $354,197  min, r 1/7, s 1/10, r 1/20
+  Jarvis Varnado .............    $275,805  minimum, signed 1/9
+  Terrel Harris ..............    $186,656  minimum, released 1/5
+
+----
+
+Milwaukee Bucks ........ Total $61,603,737
+  Monta Ellis ................ $11,000,000
+  Ersan Ilyasova .............  $7,900,000
+  Samuel Dalembert ...........  $6,698,565
+  Drew Gooden ................  $6,687,400
+  J.J. Redick ................  $6,190,000
+  Luc Mbah a Moute ...........  $4,795,192
+  Mike Dunleavy ..............  $3,750,000
+  Ekpe Udoh ..................  $3,524,880  3rd year of rookie contract
+  Brandon Jennings ...........  $3,179,493  4th year of rookie contract
+  Larry Sanders ..............  $1,991,760  3rd year of rookie contract
+  John Henson ................  $1,823,280  1st year of rookie contract
+  Gustavo Ayon ...............  $1,500,000
+  Joel Przybilla .............  $1,352,181  minimum, counts $854,389
+  Marquis Daniels ............  $1,229,255  minimum, counts $854,389
+  Ish Smith ..................    $854,389  minimum
+
+----
+
+Minnesota Timberwolves . Total $63,183,910
+  Kevin Love ................. $13,668,750
+  Andrei Kirilenko ...........  $9,779,349
+  Darko Milicic ..............  $5,228,000  amnesty rel 7/12, dnc
+  Brandon Roy ................  $5,100,000
+  Derrick Williams ...........  $4,947,840  2nd year of rookie contract
+  Nikola Pekovic .............  $4,837,200
+  J.J. Barea .................  $4,493,500
+  Luke Ridnour ...............  $4,000,000
+  Ricky Rubio ................  $3,741,120  2nd year of rookie contract
+  Alexey Shved ...............  $2,934,610
+  Greg Stiemsma ..............  $2,575,000
+  Dante Cunningham ...........  $2,090,000
+  Josh Howard ................  $1,229,255  m, s 11/16-12/20, c $854,389
+  Louis Amundson .............  $1,069,509  min, rel 2/8, counts $854,389
+  Chase Budinger .............    $885,120  minimum, counts $885,120
+  Malcolm Lee ................    $762,195  min
+  Martell Webster ............    $600,000  released 7/13
+  Mickael Gelabale ...........    $447,298  minimum, signed 1/19
+  Chris Johnson ..............    $447,298  minimum, signed 1/19
+  Will Conroy ................     $85,439  minimum, released 11/16
+  Lazar Hayward ..............     $80,413  m, s 12/31-1/6, s 1/9-1/19
+
+----
+
+New Orleans Hornets .... Total $63,517,041
+  Rashard Lewis .............. $13,700,000  released 6/30
+  Eric Gordon ................ $13,668,750
+  Ryan Anderson ..............  $8,700,000
+  Anthony Davis ..............  $5,144,280  1st year of rookie contract
+  Robin Lopez ................  $4,899,293
+  Matt Carroll ...............  $3,500,000  released 11/21
+  Al-Farouq Aminu ............  $2,947,800  3rd year of rookie contract
+  Jason Smith ................  $2,500,000
+  Xavier Henry ...............  $2,323,200  3rd year of rookie contract
+  Austin Rivers ..............  $2,238,360  1st year of rookie contract
+  Roger Mason Jr. ............  $1,223,116  minimum, counts $854,389
+  Greivis Vasquez ............  $1,191,240  3rd year of rookie contract
+  Lance Thomas ...............    $762,195  minimum
+  Darius Miller ..............    $473,604  minimum
+  Brian Roberts ..............    $473,604  minimum
+  Dominic McGuire ............    $110,947  min, s 12/16, r 1/4, c $95,491
+  Donald Sloan ...............     $44,835  minimum, s 1/7, rel 1/18
+
+----
+
+New York Knicks ........ Total $78,664,232
+  Amare Stoudemire ........... $19,948,799
+  Carmelo Anthony ............ $19,450,000
+  Tyson Chandler ............. $13,604,188
+  Marcus Camby ...............  $4,590,338
+  Steve Novak ................  $4,054,055
+  Raymond Felton .............  $3,480,453
+  Jason Kidd .................  $3,090,000
+  J.R. Smith .................  $2,806,452
+  Iman Shumpert ..............  $1,680,360  2nd year of rookie contract
+  Renaldo Balkman ............  $1,675,000  released 2/17/12
+  Kurt Thomas ................  $1,352,181  minimum (multi-year)
+  Rasheed Wallace ............  $1,352,181  mimimum, counts $854,389
+  James White ................    $854,389  minimum
+  Chris Copeland .............    $473,604  minimum
+  Pablo Prigioni .............    $473,604  mimimum
+  Kenyon Martin ..............    $437,470  min, s 2/21, counts $276,420
+
+----
+
+Oklahoma City Thunder .. Total $67,495,859
+  Kevin Durant ............... $16,669,630
+  Russell Westbrook .......... $13,668,750
+  Kevin Martin ............... $12,439,675
+  Kendrick Perkins ...........  $7,800,531
+  Thabo Sefolosha ............  $3,600,000
+  Nick Collison ..............  $2,929,332
+  Serge Ibaka ................  $2,253,062  4th year of rookie contract
+  Jeremy Lamb ................  $2,020,200  1st year of rookie contract
+  Reggie Jackson .............  $1,243,080  2nd year of rookie contract
+  Hasheem Thabeet ............  $1,200,000
+  Perry Jones ................  $1,035,960  1st year of rookie contract
+  Ronnie Brewer ..............  $1,069,509  minimum, counts $854,389
+  DeAndre Liggins ............    $762,195  minimum
+  Daniel Orton ...............    $757,712  minimum, signed 10/31
+  Derek Fisher ...............    $413,608  signed 2/25, counts $261,343
+
+----
+
+Orlando Magic .......... Total $66,306,896
+  Gilbert Arenas ............. $20,807,922  amnesty rel 12/9/12, dnc
+  Hedo Turkoglu .............. $11,815,850
+  Jameer Nelson ..............  $8,600,000
+  Arron Afflalo ..............  $7,750,000
+  Beno Udrih .................  $7,372,000
+  Al Harrington ..............  $6,687,400
+  Glen Davis .................  $6,400,000
+  Hakim Warrick ..............  $4,000,000  released 2/23
+  Quentin Richardson .........  $2,627,400  released 10/27
+  Nikola Vucevic .............  $1,768,800  2nd year of rookie contract
+  Maurice Harkless ...........  $1,731,960  1st year of rookie contract
+  Tobias Harris ..............  $1,524,480  2nd year of rookie contract
+  Andrew Nicholson ...........  $1,418,160  1st year of rookie contract
+  Christian Eyenga ...........  $1,174,080  rel 10/23, 2nd year rookie con
+  Kyle O'Quinn ...............    $788,872
+  Justin Harper ..............    $762,195  minimum, released 10/27
+  E'Twaun Moore ..............    $762,195  minimum
+  Doron Lamb .................    $650,000
+  DeQuan Jones ...............    $473,504  minimum
+
+----
+
+Philadelphia 76ers ..... Total $67,234,862
+  Andrew Bynum ............... $16,889,000
+  Elton Brand ................ $16,059,854  amnesty rel 7/11, dnc
+  Spencer Hawes ..............  $8,500,000
+  Thaddeus Young .............  $8,289,130
+  Jason Richardson ...........  $5,799,625
+  Nick Young .................  $5,600,000
+  Evan Turner ................  $5,293,080  3rd year of rookie contract
+  Dorell Wright ..............  $4,106,000
+  Lavoy Allen ................  $3,000,000
+  Kwame Brown ................  $2,819,044
+  Jrue Holiday ...............  $2,674,852  4th year of rookie contract
+  Royal Ivey .................  $1,223,166  minimum, counts $854,389
+  Damien Wilkins .............  $1,223,166  minimum, counts $854,389
+  Arnett Moultrie ............  $1,042,320  1st year of rookie contract
+  Charles Jenkins ............    $762,195  minimum
+  Jeremy Pargo ...............    $443,867  minimum, signed 2/8
+  Maalik Wayns ...............    $217,301  min, r 1/6, s 1/8, r 1/18
+  Shelvin Mack ...............     $89,670  min, s 1/17, rel 2/8
+
+----
+
+Phoenix Suns ........... Total $53,346,982
+  Goran Dragic ...............  $7,500,000
+  Marcin Gortat ..............  $7,258,960
+  Josh Childress .............  $7,000,000  amnesty released 7/15, dnc
+  Channing Frye ..............  $6,000,000
+  Michael Beasley ............  $5,750,000
+  Wesley Johnson .............  $4,285,560  3rd year of rookie contract
+  Jared Dudley ...............  $4,250,000
+  Luis Scola .................  $4,148,510  amnesty pickup from Hou
+  Shannon Brown ..............  $3,500,000
+  Markieff Morris ............  $2,063,040  2nd year of rookie contract
+  Marcus Morris ..............  $1,959,960  2nd year of rookie contract
+  Kendall Marshall ...........  $1,919,160  1st year of rookie contract
+  Jermaine O'Neal ............  $1,352,181  minimum, counts $854,389
+  Hamed Haddadi ..............  $1,300,000
+  Brad Miller ................    $848,000  released 8/15
+  P.J. Tucker ................    $762,195  minimum
+  Diante Garrett .............    $473,604  minimum
+  Luke Zeller ................    $473,604  minimum, released 2/21
+
+----
+
+Portland Trailblazers .. Total $58,443,389
+  Brandon Roy ................ $16,359,805  amnesty rel 12/15/12, dnc
+  LaMarcus Aldridge .......... $13,500,000
+  Nicolas Batum .............. $10,850,000
+  Wesley Matthews ............  $6,505,320
+  J.J. Hickson ...............  $4,000,000
+  Damian Lillard .............  $3,065,040  1st year of rookie contract
+  Joel Freeland ..............  $3,013,512
+  Shawne Williams ............  $2,600,000  released 7/11
+  Eric Maynor ................  $2,338,721  4th year of rookie contract
+  Meyers Leonard .............  $2,126,520  1st year of rookie contract
+  Luke Babbitt ...............  $1,892,280  3rd year of rookie contract
+  Jared Jeffries .............  $1,475,106
+  Elliot Williams ............  $1,442,880  3rd year of rookie contract
+  Nolan Smith ................  $1,404,960  2nd year of rookie contract
+  Victor Claver ..............  $1,300,000
+  Sasha Pavlovic .............  $1,232,713
+  Ronnie Price ...............  $1,146,337  min (multi-year), rel 2/22
+  Will Barton ................    $550,000
+
+----
+
+Sacramento Kings ....... Total $54,317,436
+  John Salmons ...............  $8,083,000
+  Marcus Thornton ............  $7,525,000
+  Chuck Hayes ................  $5,486,250
+  Tyreke Evans ...............  $5,251,825  4th year of rookie contract
+  Jason Thompson .............  $5,250,000
+  DeMarcus Cousins ...........  $3,880,800  3rd year of rookie contract
+  Aaron Brooks ...............  $3,250,000
+  Travis Outlaw ..............  $3,000,000
+  James Johnson ..............  $2,812,006  4th year of rookie contract
+  Cole Aldrich ...............  $2,445,480  3rd year of rookie contract
+  Jimmer Fredette ............  $2,406,240  2nd year of rookie contract
+  Patrick Patterson ..........  $2,096,760  3rd year of rookie contract
+  Toney Douglas ..............  $2,067,880  4th year of rookie contract
+  Isaiah Thomas ..............    $762,195  minimum
+
+----
+
+San Antonio Spurs ...... Total $69,787,704
+  Manu Ginobili .............. $14,107,492
+  Tony Parker ................ $12,500,000
+  Stephen Jackson ............ $10,059,750
+  Tim Duncan .................  $9,638,554
+  Boris Diaw .................  $4,500,000
+  Tiago Splitter .............  $3,944,000
+  Matt Bonner ................  $3,630,000
+  Danny Green ................  $3,500,000
+  Kawhi Leonard ..............  $1,861,920  2nd year of rookie contract
+  Nando de Colo ..............  $1,400,000
+  Cory Joseph ................  $1,105,560  2nd year of rookie contract
+  Patrick Mills ..............  $1,085,120
+  DeJuan Blair ...............  $1,054,000
+  Gary Neal ..................    $854,389  minimum
+  Aron Baynes ................    $401,170  minimum, signed 1/25
+  James Anderson .............    $145,749  minimum, s 11/21, rel 12/20
+
+----
+
+Toronto Raptors ........ Total $66,612,106
+  Rudy Gay ................... $16,460,538
+  Andrea Bargnani ............ $10,000,000
+  Landry Fields ..............  $6,250,000
+  Amir Johnson ...............  $6,000,000
+  Kyle Lowry .................  $5,750,000
+  Linas Kleiza ...............  $4,600,000
+  Jonas Valanciunas ..........  $3,627,720  2nd year of rookie contract
+  DeMar DeRozan ..............  $3,344,250  4th year of rookie contract
+  Aaron Gray .................  $2,575,000
+  Terrence Ross ..............  $2,563,320  1st year of rookie contract
+  Sebastian Telfair ..........  $1,567,500
+  John Lucas .................  $1,500,000
+  Mickael Pietrus ............  $1,005,097  min, s 11/30, counts $698,589
+  Alan Anderson ..............    $885,120  minimum, counts $854,389
+  Quincy Acy .................    $665,000
+  Dominic McGuire ............    $181,018  min, rel 11/30, c $155,800
+
+----
+
+Utah Jazz .............. Total $66,954,950
+  Al Jefferson ............... $15,000,000
+  Paul Millsap ...............  $8,603,633
+  Maurice Williams ...........  $8,500,000
+  Marvin Williams ............  $8,287,500
+  Derrick Favors .............  $4,753,320  3rd year of rookie contract
+  Enes Kanter ................  $4,443,360  2nd year of rookie contract
+  Raja Bell ..................  $3,480,000
+  Gordon Hayward .............  $2,709,720  3rd year of rookie contract
+  Randy Foye .................  $2,500,000
+  Alec Burks .................  $2,171,640  2nd year of rookie contract
+  Earl Watson ................  $2,000,000
+  Jeremy Evans ...............  $1,794,872
+  Jamaal Tinsley .............  $1,352,181  minimum (multi-year)
+  DeMarre Carroll ............    $885,120  minimum (multi-year)
+  Kevin Murphy ...............    $473,604  minimum
+
+----
+
+Washington Wizards ..... Total $58,087,938
+  Emeka Okafor ............... $13,490,000
+  Nene ....................... $13,000,000
+  Trevor Ariza ...............  $7,258,960
+  Andray Blatche .............  $7,118,502  amnesty rel 7/17, dnc
+  John Wall ..................  $5,915,880  3rd year of rookie contract
+  Bradley Beal ...............  $4,133,280  1st year of rookie contract
+  Jan Vesely .................  $3,294,960  2nd year of rookie contract
+  Kevin Seraphin .............  $1,797,600  3rd year of rookie contract
+  Martell Webster ............  $1,600,000
+  Chris Singleton ............  $1,596,360  2nd year of rookie contract
+  Trevor Booker ..............  $1,385,280  3rd year of rookie contract
+  Jason Collins ..............  $1,352,181  minimum, counts $854,389
+  Leandro Barbosa ............  $1,229,255  minimum, counts $854,389
+  Cartier Martin .............    $915,852  minimum, counts $854,389
+  A.J. Price .................    $885,120  minimum, counts $854,389
+  Garrett Temple .............    $572,943  minimum, signed 12/25
+  Earl Barron ................    $358,600  min, rel 12/23, c $286,472
+  Shaun Livingston ...........    $256,240  m, s 11/15-12/23, c $190,981
+  Jannero Pargo ..............    $115,122  min, rel 11/15, counts $80,413
+  Shelvin Mack ...............     $67,253  minimum, signed 12/23, rel 1/7
+
+----
+  Patricia Bender                       pbender@eskimo.com
+  For Trianglons puzzles: http://www.trianglons.com
+  For NBA stuff: http://www.eskimo.com/~pbender/index.html
+  For Mavs stuff: http://www.eskimo.com/~pbender/mavs.html
